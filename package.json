@@ -1,4 +1,7 @@
 {
+  "homepage": "https://(github username).github.io/(repo name)",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
   "name": "attempt2",
   "version": "0.1.0",
   "private": true,
