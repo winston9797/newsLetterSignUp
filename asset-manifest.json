@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newsLetterSignUp/static/css/main.e20758fe.css",
+    "main.js": "/newsLetterSignUp/static/js/main.249577e7.js",
+    "static/media/illustration-sign-up-desktop.svg": "/newsLetterSignUp/static/media/illustration-sign-up-desktop.ce2024babf0bc98a8862252535b544c9.svg",
+    "index.html": "/newsLetterSignUp/index.html",
+    "static/media/icon-list.svg": "/newsLetterSignUp/static/media/icon-list.5e317c030bb9f11a3343.svg",
+    "main.e20758fe.css.map": "/newsLetterSignUp/static/css/main.e20758fe.css.map",
+    "main.249577e7.js.map": "/newsLetterSignUp/static/js/main.249577e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e20758fe.css",
+    "static/js/main.249577e7.js"
+  ]
+}
